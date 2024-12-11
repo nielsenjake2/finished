@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: brown;
+    background-color: rgb(191, 195, 162);
+}
+h4{font-weight: bold
+}
+li {
+    font-weight: normal; 
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+a{
+    color: coral;
+    text-decoration: none;
+
+}
+.resumeListHeading{
+    font-weight: bold;
+    font-style: normal;
+}
+.justify{text-align: justify;}
+.homebg {
+    background-image: url('../images/spaceBackground.jpeg');
+    background-position: top right;
+}
+.bold {
+    font-weight: bold;
+}
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+/* 
+    border: 1px solid red; */
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 40px;
+}
+/* I know how to make comments */
